@@ -9,9 +9,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_JannZz)
 [![Instagram](https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jannzz/)
 
-[![Dell](https://img.shields.io/badge/Inspiron-15-3000?style=for-the-badge&logo=dell&logoColor=white)]()
-
-
 ---
 
 ### Spotify Playing 🎧
