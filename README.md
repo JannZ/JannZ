@@ -20,3 +20,10 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jannz11)
 
 ---
+
+###
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
